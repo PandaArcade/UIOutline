@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: UIOutline_Glow_Red
+  m_Name: UIOutline_Glow_Red_Wavy
   m_Shader: {fileID: 4800000, guid: 442477045099e1649ad5520d3c3b6ee1, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
